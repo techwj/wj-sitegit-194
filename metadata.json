@@ -1,0 +1,59 @@
+{
+  "siteId": "commute-stretching",
+  "generatedAt": "2026-06-05T14:26:18.078328",
+  "categories": [
+    "beginner-commute-stretching",
+    "advanced-commute-stretching",
+    "tips-commute-stretching",
+    "history-commute-stretching",
+    "trending-commute-stretching",
+    "tutorials-commute-stretching"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-commute-stretching",
+      "category_name": "Beginner Commute Stretching"
+    },
+    {
+      "category_slug": "advanced-commute-stretching",
+      "category_name": "Advanced Commute Stretching"
+    },
+    {
+      "category_slug": "tips-commute-stretching",
+      "category_name": "Commute Stretching Tips"
+    },
+    {
+      "category_slug": "history-commute-stretching",
+      "category_name": "Commute Stretching History"
+    },
+    {
+      "category_slug": "trending-commute-stretching",
+      "category_name": "Trending Commute Stretching"
+    },
+    {
+      "category_slug": "tutorials-commute-stretching",
+      "category_name": "Commute Stretching Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "commute-stretching",
+    "color_scheme": {
+      "name": "Forest Green",
+      "primary": "#166534",
+      "secondary": "#22c55e",
+      "accent": "#86efac",
+      "background": "#f0fdf4",
+      "text": "#14532d",
+      "light": "#dcfce7"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "centered-wide",
+    "site_title": "Commute Stretching Central",
+    "articles_per_row": 2
+  }
+}
